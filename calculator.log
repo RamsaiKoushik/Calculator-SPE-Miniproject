@@ -1,0 +1,68 @@
+INFO: Calculating power for base: 2.0 and exponent: 3.0
+INFO: Power result: 8.0
+INFO: Calculating power for base: 5.0 and exponent: 0.0
+INFO: Power result: 1.0
+INFO: Calculating power for base: 2.0 and exponent: -1.0
+INFO: Power result: 0.5
+INFO: Calculating factorial for: 5
+INFO: Factorial result: 120
+INFO: Calculating factorial for: 0
+INFO: Factorial result: 1
+INFO: Calculating factorial for: -5
+WARNING: Factorial of a negative number is undefined.
+INFO: Calculating natural logarithm for: 1.0
+INFO: Natural logarithm result: 0.0
+INFO: Calculating natural logarithm for: 0.0
+WARNING: Natural logarithm is undefined for zero or negative numbers.
+INFO: Calculating natural logarithm for: -5.0
+WARNING: Natural logarithm is undefined for zero or negative numbers.
+INFO: Calculating square root for: 16.0
+INFO: Square root result: 4.0
+INFO: Calculating square root for: 0.0
+INFO: Square root result: 0.0
+INFO: Calculating square root for: -25.0
+WARNING: Square root of a negative number is undefined.
+INFO: Calculating power for base: 2.0 and exponent: 3.0
+INFO: Power result: 8.0
+INFO: Calculating power for base: 5.0 and exponent: 0.0
+INFO: Power result: 1.0
+INFO: Calculating power for base: 2.0 and exponent: -1.0
+INFO: Power result: 0.5
+INFO: Calculating factorial for: 5
+INFO: Factorial result: 120
+INFO: Calculating factorial for: 0
+INFO: Factorial result: 1
+INFO: Calculating factorial for: -5
+WARNING: Factorial of a negative number is undefined.
+INFO: Calculating natural logarithm for: 1.0
+INFO: Natural logarithm result: 0.0
+INFO: Calculating natural logarithm for: 0.0
+WARNING: Natural logarithm is undefined for zero or negative numbers.
+INFO: Calculating natural logarithm for: -5.0
+WARNING: Natural logarithm is undefined for zero or negative numbers.
+INFO: Calculating square root for: 16.0
+INFO: Square root result: 4.0
+INFO: Calculating power for base: 2.0 and exponent: 3.0
+INFO: Power result: 8.0
+INFO: Calculating power for base: 5.0 and exponent: 0.0
+INFO: Power result: 1.0
+INFO: Calculating power for base: 2.0 and exponent: -1.0
+INFO: Power result: 0.5
+INFO: Calculating factorial for: 5
+INFO: Factorial result: 120
+INFO: Calculating factorial for: 0
+INFO: Factorial result: 1
+INFO: Calculating factorial for: -5
+WARNING: Factorial of a negative number is undefined.
+INFO: Calculating natural logarithm for: 1.0
+INFO: Natural logarithm result: 0.0
+INFO: Calculating natural logarithm for: 0.0
+WARNING: Natural logarithm is undefined for zero or negative numbers.
+INFO: Calculating natural logarithm for: -5.0
+WARNING: Natural logarithm is undefined for zero or negative numbers.
+INFO: Calculating square root for: 16.0
+INFO: Square root result: 4.0
+INFO: Calculating square root for: 0.0
+INFO: Square root result: 0.0
+INFO: Calculating square root for: -25.0
+WARNING: Square root of a negative number is undefined.
