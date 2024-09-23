@@ -4,6 +4,12 @@ pipeline{
     }
     agent any
     stages{
+
+        stage("Stage 0 : Git Clone"){
+            steps{
+                git "https://github.com/RamsaiKoushik/Calculator-SPE-Miniproject.git"
+            }
+        }
         
         stage("Stage 1 : Maven Build"){
             steps{
