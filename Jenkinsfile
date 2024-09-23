@@ -43,7 +43,7 @@ pipeline{
                 credentialsId: 'localhost',
                 installation: 'Ansible',
                 inventory: 'inventory',
-                playbook: 'Deploy-Calculator.yml'
+                playbook: 'deploy-calculator.yml'
             }
         }
     }
